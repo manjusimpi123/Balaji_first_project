@@ -10,7 +10,7 @@ explore: arr_trends {}
 explore: arr_type {
   access_filter: {
     field: arr_type.geo
-    user_attribute : region_jpn
+    user_attribute : region
   }
 }
 
