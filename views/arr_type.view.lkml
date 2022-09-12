@@ -68,6 +68,7 @@ view: arr_type {
   dimension: geo {
     type: string
     sql: ${TABLE}."GEO" ;;
+    full_suggestions: no
 
   }
 
